@@ -1,0 +1,19 @@
+{
+    "name": "Web3Builders #2",
+    "description": "",
+    "image": "ipfs://QmaQ1VKZPPCXfz87ZdbnYmEgtZ4PeLFgJCpcqAAVUdrAZ8/2.png",
+    "attributes": [
+        {
+            "trait_type": "Language",
+            "value": "Rust"
+        },
+        {
+            "trait_type": "OS",
+            "value": "Unknown"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "Super Duper Fast"
+        }
+    ]
+}

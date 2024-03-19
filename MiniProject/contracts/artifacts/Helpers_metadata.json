@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_str",
+						"type": "string"
+					}
+				],
+				"name": "stringToInt8",
+				"outputs": [
+					{
+						"internalType": "int8",
+						"name": "",
+						"type": "int8"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Helpers.sol": "Helpers"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Helpers.sol": {
+			"keccak256": "0xbe96d7d5150c512a023028398271689d1724954ae94055cedce2e8e9d4c98742",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9395b01dcbbd1a4768845ac6ed65b1f7a97f4ae02a87f373d6869a3daff3afb1",
+				"dweb:/ipfs/QmWEzihic8gE81oeRdUYytDFKEmSm1i7ohYyngoEEaMBus"
+			]
+		}
+	},
+	"version": 1
+}

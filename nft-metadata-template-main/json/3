@@ -1,0 +1,19 @@
+{
+    "name": "Web3Builders #3",
+    "description": "",
+    "image": "ipfs://QmaQ1VKZPPCXfz87ZdbnYmEgtZ4PeLFgJCpcqAAVUdrAZ8/3.png",
+    "attributes": [
+        {
+            "trait_type": "Language",
+            "value": "C#"
+        },
+        {
+            "trait_type": "OS",
+            "value": "Microsoft"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "OK"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "testSubtraction",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Time.sol": "TestFixedPointArithmetic"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Time.sol": {
+			"keccak256": "0xc67da85c123b3521feae67fff9ec8806b3e16c2f8c3d2fa6a6f57a222c1e73fe",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1d4c161f0bc4aa98a7ecd777786a2dc4890a2ab353c943abbe32e42654593201",
+				"dweb:/ipfs/QmX3KHatJorEBXZtcrw5H7toqC4Y6Fcok5MPGJyhetZmFx"
+			]
+		}
+	},
+	"version": 1
+}

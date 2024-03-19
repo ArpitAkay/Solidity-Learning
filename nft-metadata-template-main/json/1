@@ -1,0 +1,19 @@
+{
+    "name": "Web3 Builders #1",
+    "description": "",
+    "image": "ipfs://QmaQ1VKZPPCXfz87ZdbnYmEgtZ4PeLFgJCpcqAAVUdrAZ8/1.png",
+    "attributes": [
+        {
+            "trait_type": "Language",
+            "value": "C"
+        },
+        {
+            "trait_type": "OS",
+            "value": "Linux"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "Fast"
+        }
+    ]
+}
