@@ -66,7 +66,7 @@ contract Web3Builders is ERC721, ERC721Enumerable, ERC721Pausable, Ownable {
         require(totalSupply() < maxSupply, "We sold out");
         uint256 tokenId = _nextTokenId++;
         _safeMint(msg.sender, tokenId);
-    }
+    } 
 
     function withDraw(address _addr) external onlyOwner {
         uint256 balance = address(this).balance;    // give the address the current contract
